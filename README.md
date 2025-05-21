@@ -1,1 +1,1 @@
-# A-Search-Program
+# A* Search Algorithm
